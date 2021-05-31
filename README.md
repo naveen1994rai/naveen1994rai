@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naveen
 - 👀 I’m interested in full stack projects involving FinTech, IoT, Blockchain, etc.
 - 🌱 I’m currently learning cloud technology and Dev Ops.
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/naveen-rai-5a08b313b/)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/naveen-rai-5a08b313b/) , email(naveenrai973@yahoo.co.in)
 
 <!---
 naveen1994rai/naveen1994rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
