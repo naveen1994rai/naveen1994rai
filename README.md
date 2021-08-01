@@ -6,7 +6,7 @@
 
 
 
-[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen1994rai&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/naveen1994rai/github-readme-stats)
+[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen1994rai&hide=contribs&show_icons=true&theme=chartreuse-dark)](https://github.com/naveen1994rai/github-readme-stats)
 
 
 
