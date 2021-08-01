@@ -15,6 +15,13 @@
 
 
 [![Naveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naveen1994rai)](https://github.com/naveen1994rai/github-readme-stats)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naveen1994rai&repo=lightweight-google-keeper)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!---
 naveen1994rai/naveen1994rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
