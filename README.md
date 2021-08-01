@@ -17,8 +17,12 @@
 [![Naveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naveen1994rai)](https://github.com/naveen1994rai/github-readme-stats)
 
 
+<a href='https://github.com/naveen1994rai/lightweight-google-keeper'><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=naveen1994rai&repo=lightweight-google-keeper&theme=blue-green'></img></a><a href='https://github.com/naveen1994rai/your-to-do-list'><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=naveen1994rai&repo=your-to-do-list&theme=blue-green'></img></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naveen1994rai&repo=lightweight-google-keeper&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://github.com/naveen1994rai/library-booking-system'><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=naveen1994rai&repo=library-booking-system&theme=blue-green'></img></a><a href='https://github.com/naveen1994rai/the-drum-kit'><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=naveen1994rai&repo=the-drum-kit&theme=blue-green'></img></a>
+
+
+
 
 
 
