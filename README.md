@@ -6,15 +6,15 @@
 
 
 
-[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen1994rai&hide=contribs&show_icons=true&theme=chartreuse-dark)](https://github.com/naveen1994rai/github-readme-stats)
+[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen1994rai&hide=contribs&show_icons=true&theme=chartreuse-dark)](https://github.com/naveen1994rai)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen1994rai&layout=compact)](https://github.com/naveen1994rai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen1994rai&layout=compact)](https://github.com/naveen1994rai)
 
 
 
-[![Naveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naveen1994rai)](https://github.com/naveen1994rai/github-readme-stats)
+[![Naveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naveen1994rai)](https://github.com/naveen1994rai)
 
 
 <a href='https://github.com/naveen1994rai/lightweight-google-keeper'><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=naveen1994rai&repo=lightweight-google-keeper&theme=blue-green'></img></a><a href='https://github.com/naveen1994rai/your-to-do-list'><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=naveen1994rai&repo=your-to-do-list&theme=blue-green'></img></a>
